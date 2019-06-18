@@ -1,0 +1,7 @@
+{
+  "name": "juridocs",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

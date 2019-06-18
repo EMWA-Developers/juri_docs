@@ -1,0 +1,7 @@
+{
+  "appId": "com.juridocs.app",
+  "appName": "juridocs",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
